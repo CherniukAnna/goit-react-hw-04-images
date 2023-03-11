@@ -1,5 +1,7 @@
 .Loader {
+  z-index: 10;
   display: flex;
   justify-content: center;
   margin-top: 16px;
+   animation: loader-animation 1s linear infinite;
 }
