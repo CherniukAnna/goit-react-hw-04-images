@@ -3,5 +3,5 @@
   display: flex;
   justify-content: center;
   margin-top: 16px;
-   animation: loader-animation 1s linear infinite;
+   /* animation: loader-animation 1s linear infinite; */
 }
